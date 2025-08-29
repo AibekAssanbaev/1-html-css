@@ -1,0 +1,100 @@
+body {
+    background-color: #f1f1f1;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.dog {
+    width: 200px;
+    border-radius: 40px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 1);
+}
+
+.aibax p {
+    margin: 0;
+}
+
+.box{
+    max-width: 93%;
+    margin: auto;
+}
+
+/* .social{
+    background: darkgray;
+    padding: 15px;
+    margin: 50px; 
+
+    border: 5px solid black;
+    border-top-width: 15px 
+} */
+
+/* .info {
+    margin-bottom: 20px;
+} */
+
+.bg-yellow {
+background: #fff9dc;
+}
+
+.bg-green {
+background: #e5ffe7;
+}
+
+.bg-red {
+background: #ffe5e5;
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 40px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+/* * {
+    padding: 0;
+    margin: 0;
+} */
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 10px;
+}
+
+ .table tr:nth-child(odd) {
+    background: #008000;
+} 
+
+/* .contact h2 {
+    text-align: center;
+} */
+
+.form-group label {
+    display: block;
+    font-size: 15px;
+}
+
+.form-group input {
+    width: 20%;
+    box-sizing: border-box;
+  /* border: none; */
+   border-bottom: 1px solid #ccc;
+}
+
+.row {
+    display: flex;
+}
